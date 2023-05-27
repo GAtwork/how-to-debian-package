@@ -25,6 +25,8 @@ mkdir myApp_1.0
 
 Pretend that the packaging directory is actually the root of the file system. Put the files of your program where they would be installed to on a system.
 
+* Note that the file is without the .sh extention
+
 ```
 mkdir myApp_1.0/usr
 mkdir myApp_1.0/usr/local
